@@ -1,11 +1,12 @@
 .container{
 	width: 95%;
 	overflow: hidden;
-	background-color: white;
+	background-color: blue;
 	margin: 20px auto;
 	padding:20px;
 	text-align: center;
 	font-family: helvetica;
+	
 }
 .container ul{
 	padding:0px;
